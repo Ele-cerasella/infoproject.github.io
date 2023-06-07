@@ -39,6 +39,19 @@ body {
 h1 {
   color: darkorchid;
   text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+}
+
+
+h3 {
+  color: darkorange;
+  text-align: center;
   font-size: 36px;
 }
 
