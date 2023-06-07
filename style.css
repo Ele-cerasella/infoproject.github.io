@@ -39,13 +39,13 @@ body {
 h1 {
   color: darkorchid;
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 h2 {
   color: blue;
   text-align: center;
-  font-size: 50px;
+  font-size: 43px;
 }
 
 
@@ -57,14 +57,17 @@ h3 {
 
 
 p {
+  font-family: "RockwellExtraBold";
   color: black;
-  margin: 27px;
+  margin: 20px;
+  font-size: 20px;
 }
 
 
 a {
   color: blue;
   text-decoration: none;
+  text-align: center;
 }
 
 a:hover {
