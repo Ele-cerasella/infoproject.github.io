@@ -1,29 +1,28 @@
-/* Select the body element and set its background color and font family /
+
 body {
   background-color: lightblue;
   font-family: Arial, sans-serif;
 }
 
-/ Select the h1 element and set its color, text alignment, and font size /
+
 h1 {
   color: white;
   text-align: center;
   font-size: 36px;
 }
 
-/ Select the p element and set its color and margin /
+
 p {
   color: black;
   margin: 20px;
 }
 
-/ Select the a element and set its color and text decoration /
+
 a {
   color: blue;
   text-decoration: none;
 }
 
-/ Select the a element when it is hovered over and change its color */
 a:hover {
   color: red;
 }
